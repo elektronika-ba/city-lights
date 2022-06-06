@@ -1,5 +1,6 @@
 # city-lights
 City Lights - smart street light monitoring and control.
 
-Project in development, please be patient :-)
+Project developed, but proprietary. This repository will remain empty, sorry.
+
 Thanks!
